@@ -177,6 +177,9 @@ docker run --rm -v "$(pwd):/app" -w /app node:18-alpine npm install --package-lo
 - Перейдите на вкладку **Actions** в вашем репозитории на **GitHub**. Вы увидите, как ваш **Workflow** запустился, а через несколько минут загорится **зеленая** галочка, которая означает, что все шаги прошли успешно
 - Если ваш **Workflow** стал красным - исправьте ошибки и запуштесь снова
 
+<img width="1227" height="178" alt="изображение" src="https://github.com/user-attachments/assets/f5ea6ebd-71e0-4787-8cbb-9de4c46b9b42" />
+
+
 
 
 ### 7. Проверить сборку Docker-образа локально
